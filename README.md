@@ -1,6 +1,6 @@
 # 🌐 AKU Website
 
-A modern and responsive website built for **AKU (Aryabhatta Knowledge University)** using **Next.js**. The project provides a clean, structured, and user-friendly web interface for presenting university-related information and digital content.
+A modern and responsive website built for **AKU (Aryabhatta Knowledge University)** using **Next.js**. The project provides a clean, structured, and user-friendly web interface for  information and digital content.
 
 ## 🚀 Features
 
@@ -8,8 +8,6 @@ A modern and responsive website built for **AKU (Aryabhatta Knowledge University
 * 📱 Mobile, tablet, and desktop support
 * ⚡ Fast performance with Next.js
 * 🧭 Easy and intuitive navigation
-* 🏫 University information sections
-* 📚 Academic and educational content
 * 📢 Important announcements and information
 * 📞 Contact and information sections
 * 🖼️ Optimized images and assets
@@ -24,7 +22,6 @@ A modern and responsive website built for **AKU (Aryabhatta Knowledge University
 * **TypeScript**
 * **Tailwind CSS / CSS**
 * **JavaScript**
-* **HTML5**
 * **Git & GitHub**
 
 ## 📂 Project Structure
